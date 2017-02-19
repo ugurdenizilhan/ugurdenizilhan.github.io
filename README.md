@@ -1,9 +1,5 @@
 Çok ilginç bir yer olabilirdin fakat üşeniyorum...
 
-<iframe name="I1" width="1200" height="1024" src="http://udenizilhan.blogspot.com.tr/">
-...
-</iframe>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ugurdenizilhan/ugurdenizilhan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
