@@ -1,7 +1,7 @@
 Çok ilginç bir yer olabilirdin fakat üşeniyorum...
 
 <iframe name="I1" width="1200" height="1024" src="http://udenizilhan.blogspot.com.tr/">
-tarayıcınız satır içi çetçeveleri desteklemiyor
+...
 </iframe>
 
 ## Welcome to GitHub Pages
