@@ -1,3 +1,6 @@
+<img alt="The Last of us" src="http://i.hizliresim.com/JE1Jn5.png">
+
+
 Çok ilginç bir yer olabilirdin fakat üşeniyorum...
 
 ## Welcome to GitHub Pages
