@@ -1,4 +1,4 @@
-<iframe style="width:100%; height:100%" name=I1 framespacing=0 src="http://udenizilhan.blogspot.com.tr/" frameborder=0 scrolling=no border="0"></iframe>
+<iframe> style="width:100%; height:100%" name=I1 framespacing=0 src="http://udenizilhan.blogspot.com.tr/" frameborder=0 scrolling=no border="0" </iframe>
 
 Çok ilginç bir yer olabilirdin fakat üşeniyorum...
 
